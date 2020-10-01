@@ -1,0 +1,2 @@
+An Application that determins if its summer or winter by using geolocation latitude.
+(you need to allow access to your location, until you do there is a loading screen)
